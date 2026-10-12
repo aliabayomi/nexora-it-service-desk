@@ -1,4 +1,3 @@
-# nexora-it-service-desk
 # Nexora IT Service Desk & Asset Management System
 
 An enterprise-style IT service desk solution built with Microsoft Power Apps, Dataverse and Power Automate to manage IT support tickets, track assets and automate service workflows.
